@@ -4,6 +4,12 @@ from PyQt5.Qt import *
 from PyQt5.QtWidgets import QApplication
 import sys
 import matplotlib
+# from ctypes import cdll
+
+# lib = cdll.LoadLibrary('Test.h')
+# lib.main()
+
+
 
 upper_blue = np.array([0, 0, 0])
 lower_blue = np.array([255, 255, 255])
