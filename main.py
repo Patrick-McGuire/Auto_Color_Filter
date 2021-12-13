@@ -13,6 +13,7 @@ import matplotlib
 
 upper_blue = np.array([0, 0, 0])
 lower_blue = np.array([255, 255, 255])
+
 adder = 20
 
 tracker = False
